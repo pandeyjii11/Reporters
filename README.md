@@ -1,4 +1,4 @@
-# Reporters Portal Backend Server [Live Server](https://drab-cyan-caiman-yoke.cyclic.app)
+# Reporters Portal Backend Server [Live Server](https://drab-cyan-caiman-yoke.cyclic.app) [API Documentation](https://documenter.getpostman.com/view/29471893/2s9YR6ZYpc)
 
 ## Project Description
 
